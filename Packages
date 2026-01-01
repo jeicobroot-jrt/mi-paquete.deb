@@ -6,4 +6,4 @@ Depends: python, python-pip, proot, git, apt, coreutils
 Filename: ./packit.deb
 Size: 1508
 MD5sum: 4062e27df62b09da2346da118894f6be
-Description: Omega Kit v1.27 - Auto-configuracion de comandos Python y Sistema.
+Description: Omega Kit v1.27
