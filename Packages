@@ -1,0 +1,7 @@
+Package: packit
+Version: 1.17
+Architecture: all
+Maintainer: Jeicob_root
+Filename: ./mi-paquete.deb
+Size: 1280
+Description: El kit definitivo de comandos rápidos para Termux.

@@ -1,0 +1,14 @@
+echo "--- MI HERRAMIENTA TOOLKIT ---"
+echo "1. Actualizar sistema"
+echo "2. Ver mi IP"
+echo "3. Salir"
+read -p "Selecciona una opción: " opcion
+
+if [ $opcion -eq 1 ]; then
+	    pkg update && pkg upgrade
+    elif [ $opcion -eq 2 ]; then
+	        ifconfig
+	elif [ $opcion -eq 3  ]; then 
+                 exit
+
+            $'[H\E[2J\E[3J':

@@ -1,0 +1,34 @@
+#!/data/data/com.termux/files/usr/bin/bash
+clear
+echo "==================================="
+echo "     PACKIT v1.18 - BY JEICOB_ROOT  "
+echo "            ©2026                   "
+echo "==================================="
+echo "kit of fast commands for termux "
+
+alias uyp="pkg update && pkg upgrade"
+alias ppbb="proot -0 -w ~$PREFIX/bin/bash"
+alias ipc="ifconfig"
+alias instal="pkg install"
+alias pac="chmod 755 && chmod +x"
+
+echo "============================================================================================================="
+echo "         pack_list           "
+
+
+echo " uyp, is a modified command with the power of update and upgrade de system of termux.this don't have example"
+
+echo " ppbb, is a modified command with the power of give Proot,Proot only give virtual root.this don't have example"
+
+echo " ipc, is a modified command with the power of give the data of the internet is,recomended for new users in termux.this don't have example"
+
+echo " instal, is a simple modified command with the funtion of install,before of the use,you need to combine the command with a pakage.example: install ENTER_YOUR_PACKAGE"
+
+echo " pac,is a modified command with the power of give permissions to a directory or a file,before of the use of this command you need to put the name of the file/directory.example: pac ENTER_YOUR_FILE" 
+
+
+
+echo "=============================================================================================================="
+
+
+
