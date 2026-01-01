@@ -18,9 +18,9 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1767295460,,"wq"
+|2,0,1767299363,,"wq"
 :q
-|2,0,1767294237,,"q"
+|2,0,1767298984,,"q"
 :w
 |2,0,1767294118,,"w"
 :q!
@@ -65,40 +65,120 @@ $
 # global variables:
 
 # File marks:
-'0  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,48,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
-'1  2  12  ~/mi-paquete/DEBIAN/control
-|4,49,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
-'2  7  4  ~/mi-paquete/DEBIAN/postinst
-|4,50,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
-'3  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,51,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
-'4  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,52,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
-'5  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,53,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'0  2  12  ~/mi-paquete/DEBIAN/control
+|4,48,2,12,1767299363,"~/mi-paquete/DEBIAN/control"
+'1  5  28  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,49,5,28,1767299157,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'2  5  28  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,50,5,28,1767298984,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'3  2  12  ~/mi-paquete/DEBIAN/control
+|4,51,2,12,1767298966,"~/mi-paquete/DEBIAN/control"
+'4  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,52,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'5  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,53,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
 '6  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,54,4,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
-'7  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,55,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
-'8  3  20  ~/mi-paquete/DEBIAN/control
-|4,56,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
-'9  3  20  ~/mi-paquete/DEBIAN/control
-|4,57,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+|4,54,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'7  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,55,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'8  2  12  ~/mi-paquete/DEBIAN/control
+|4,56,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+'9  2  12  ~/mi-paquete/DEBIAN/control
+|4,57,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
 
 # Jumplist (newest first):
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767299363,"~/mi-paquete/DEBIAN/control"
+-'  5  28  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,5,28,1767299157,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  5  28  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,5,28,1767299157,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  5  28  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,5,28,1767298984,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  5  28  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,5,28,1767298984,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,4,22,1767298971,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,4,22,1767298971,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,4,22,1767298971,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,4,22,1767298971,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767298966,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767298966,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767298966,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767298966,"~/mi-paquete/DEBIAN/control"
 -'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
 |4,39,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767295436,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767295436,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767295436,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767295436,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767295436,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767295436,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767295436,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
 -'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
 |4,39,1,41,1767295436,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
 -'  2  12  ~/mi-paquete/DEBIAN/control
 |4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
 |4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
 -'  3  20  ~/mi-paquete/DEBIAN/control
 |4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
 -'  3  20  ~/mi-paquete/DEBIAN/control
 |4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
 -'  7  4  ~/mi-paquete/DEBIAN/postinst
 |4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
 -'  7  4  ~/mi-paquete/DEBIAN/postinst
@@ -107,192 +187,134 @@ $
 |4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
 -'  7  4  ~/mi-paquete/DEBIAN/postinst
 |4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
--'  1  0  ~/mi-paquete/DEBIAN/postinst
-|4,39,1,0,1767294966,"~/mi-paquete/DEBIAN/postinst"
--'  1  0  ~/mi-paquete/DEBIAN/postinst
-|4,39,1,0,1767294966,"~/mi-paquete/DEBIAN/postinst"
--'  1  0  ~/mi-paquete/DEBIAN/postinst
-|4,39,1,0,1767294966,"~/mi-paquete/DEBIAN/postinst"
--'  1  0  ~/mi-paquete/DEBIAN/postinst
-|4,39,1,0,1767294966,"~/mi-paquete/DEBIAN/postinst"
--'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767294677,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767294677,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767294677,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767294677,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  3  20  ~/mi-paquete/DEBIAN/control
-|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
--'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,2,8,1767294130,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,2,8,1767294130,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,2,8,1767294130,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,2,8,1767294130,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
 
 # History of marks within files (newest to oldest):
 
+> ~/mi-paquete/DEBIAN/control
+	*	1767299359	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	1	22
+	+	6	43
+	+	1	1
+	+	2	6
+	+	3	20
+	+	2	11
+	+	3	19
+	+	2	12
+	+	1	14
+	+	2	12
+	+	5	8
+	+	2	12
+	+	3	20
+	+	2	12
+	i	2	11
+	s	2	11
+
 > ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-	*	1767295455	0
-	"	4	22
+	*	1767299148	0
+	"	5	28
 	^	4	23
 	.	4	22
 	+	33	48
@@ -385,28 +407,6 @@ $
 	+	2	0
 	+	4	22
 	i	35	45
-
-> ~/mi-paquete/DEBIAN/control
-	*	1767295410	0
-	"	2	12
-	^	2	13
-	.	2	12
-	+	1	22
-	+	6	43
-	+	1	1
-	+	2	6
-	+	3	20
-	+	2	11
-	+	3	19
-	+	2	12
-	+	1	14
-	+	2	12
-	+	5	8
-	+	2	12
-	+	3	20
-	+	2	12
-	i	2	11
-	s	2	11
 
 > ~/mi-paquete/DEBIAN/postinst
 	*	1767295094	0
