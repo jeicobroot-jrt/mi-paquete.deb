@@ -1,0 +1,7 @@
+Origin: Packit-Repo
+Label: Packit
+Suite: stable
+Codename: termux
+Architectures: all
+Components: main
+Description: Repositorio Omega v1.27
