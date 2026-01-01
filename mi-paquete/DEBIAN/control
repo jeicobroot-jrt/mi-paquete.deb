@@ -1,6 +1,0 @@
-package: packit
-Version: 1.18
-Architecture: aarch64
-Maintainer: Jeicob_root
-Description: Herramienta packit para Termux
-
