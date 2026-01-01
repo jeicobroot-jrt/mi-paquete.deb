@@ -1,8 +1,9 @@
-Version: 1.23
-Architecture: aarch64
+Package: packit
+Version: 1.27
+Architecture: all
 Maintainer: Jeicob_root
-Depends:python, python-pip, proot, git, apt, coreutils
-Description: Herramienta packit para Termux
+Depends: python, python-pip, proot, git, apt, coreutils
 Filename: ./packit.deb
-Size: 1524
-MD5sum: 6ea58021ee22c819289effbc94b9bd65
+Size: 1508
+MD5sum: 4062e27df62b09da2346da118894f6be
+Description: Omega Kit v1.27 - Auto-configuracion de comandos Python y Sistema.
