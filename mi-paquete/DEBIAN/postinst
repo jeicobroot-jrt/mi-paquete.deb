@@ -1,0 +1,7 @@
+#!/bin/sh
+# Agregar la carga de packit al bashrc si no existe
+if ! grep -q "source packit" ~/.bashrc; then
+  echo "source packit" >> ~/.bashrc
+    echo "✅ Packit configurado para carga automática."
+    fi
+    	

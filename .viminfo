@@ -11,16 +11,18 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/data
+~MSle0~/bin
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1767280490,,"wq"
+|2,0,1767295460,,"wq"
 :q
-|2,0,1767242894,,"q"
+|2,0,1767294237,,"q"
+:w
+|2,0,1767294118,,"w"
 :q!
 |2,0,1767213765,,"q!"
 :.,.+1!clear
@@ -31,6 +33,8 @@ $
 |2,0,1767201334,,"qr"
 
 # Search String History (newest to oldest):
+?/bin/sh
+|2,1,1767295006,47,"bin/sh"
 ?/data/data/com.termux/files/usr/bin/bash
 |2,1,1767213859,47,"data/data/com.termux/files/usr/bin/bash"
 
@@ -44,258 +48,258 @@ $
 "0	CHAR	0
 	
 |3,0,0,0,1,0,1767222111,""
-""1	CHAR	0
+"1	CHAR	0
 	
 	                               echo " Â©2026"
-|3,1,1,0,2,0,1767242954,"","                               echo \" Â©2026\""
+|3,0,1,0,2,0,1767242954,"","                               echo \" Â©2026\""
 "w	CHAR	0
 	502
 <f3€ý5€K5€ýL€ýL€ýL€ýL€ý,€ý.€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ý,€ý.€ý,€ý.€ý,€ý.€K1€ý,€ý.€ý,€ý.€ý,€ý.€ý,€ý.€ý,€ý.€ýK€ýK€ýKw222wwwwwww€K3€K3€K5€ý,€ý.€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5
 |3,0,32,0,1,0,1767215219,>501
 |<"f3€ý5€K5€ýL€ýL€ýL€ýL€ý,€ý.€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ý,€ý.€ý,€ý.€ý,€ý.€K1€ý,€ý.€ý,€ý.€ý,€ý.€ý,€ý.€ý,€ý.€ýK€ýK€ýKw222wwwwwww€K3€K3€K5€ý,€ý.€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý5€ý
 |<5€ý5€ý5"
-"-	CHAR	0
-	
-|3,0,36,0,1,0,1767202067,""
+""-	CHAR	0
+	h
+|3,1,36,0,1,0,1767290955,"h"
 
 # global variables:
 
 # File marks:
 '0  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,48,4,22,1767280490,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
-'1  10  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,49,10,41,1767280460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
-'2  10  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,50,10,41,1767280460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
-'3  2  12  ~/mi-paquete/DEBIAN/control
-|4,51,2,12,1767280400,"~/mi-paquete/DEBIAN/control"
-'4  1  14  ~/mi-paquete/DEBIAN/control
-|4,52,1,14,1767243221,"~/mi-paquete/DEBIAN/control"
-'5  1  14  ~/mi-paquete/DEBIAN/control
-|4,53,1,14,1767243221,"~/mi-paquete/DEBIAN/control"
-'6  2  12  ~/mi-paquete/DEBIAN/control
-|4,54,2,12,1767243010,"~/mi-paquete/DEBIAN/control"
-'7  2  12  ~/mi-paquete/DEBIAN/control
-|4,55,2,12,1767243010,"~/mi-paquete/DEBIAN/control"
-'8  2  12  ~/mi-paquete/DEBIAN/control
-|4,56,2,12,1767243010,"~/mi-paquete/DEBIAN/control"
-'9  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,57,4,22,1767242987,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+|4,48,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'1  2  12  ~/mi-paquete/DEBIAN/control
+|4,49,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+'2  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,50,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+'3  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,51,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'4  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,52,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'5  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,53,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'6  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,54,4,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'7  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,55,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+'8  3  20  ~/mi-paquete/DEBIAN/control
+|4,56,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+'9  3  20  ~/mi-paquete/DEBIAN/control
+|4,57,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
 
 # Jumplist (newest first):
 -'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767280490,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  10  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,10,41,1767280466,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  10  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,10,41,1767280460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+|4,39,4,22,1767295460,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767295436,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767295419,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767295395,"~/mi-paquete/DEBIAN/control"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  7  4  ~/mi-paquete/DEBIAN/postinst
+|4,39,7,4,1767295104,"~/mi-paquete/DEBIAN/postinst"
+-'  1  0  ~/mi-paquete/DEBIAN/postinst
+|4,39,1,0,1767294966,"~/mi-paquete/DEBIAN/postinst"
+-'  1  0  ~/mi-paquete/DEBIAN/postinst
+|4,39,1,0,1767294966,"~/mi-paquete/DEBIAN/postinst"
+-'  1  0  ~/mi-paquete/DEBIAN/postinst
+|4,39,1,0,1767294966,"~/mi-paquete/DEBIAN/postinst"
+-'  1  0  ~/mi-paquete/DEBIAN/postinst
+|4,39,1,0,1767294966,"~/mi-paquete/DEBIAN/postinst"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  1  41  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,1,41,1767294712,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
 -'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767280405,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767280400,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767280400,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767280400,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767280400,"~/mi-paquete/DEBIAN/control"
--'  1  14  ~/mi-paquete/DEBIAN/control
-|4,39,1,14,1767280381,"~/mi-paquete/DEBIAN/control"
--'  1  14  ~/mi-paquete/DEBIAN/control
-|4,39,1,14,1767280381,"~/mi-paquete/DEBIAN/control"
--'  1  14  ~/mi-paquete/DEBIAN/control
-|4,39,1,14,1767280381,"~/mi-paquete/DEBIAN/control"
--'  1  14  ~/mi-paquete/DEBIAN/control
-|4,39,1,14,1767280381,"~/mi-paquete/DEBIAN/control"
--'  1  14  ~/mi-paquete/DEBIAN/control
-|4,39,1,14,1767243221,"~/mi-paquete/DEBIAN/control"
--'  1  14  ~/mi-paquete/DEBIAN/control
-|4,39,1,14,1767243221,"~/mi-paquete/DEBIAN/control"
--'  1  14  ~/mi-paquete/DEBIAN/control
-|4,39,1,14,1767243221,"~/mi-paquete/DEBIAN/control"
--'  1  14  ~/mi-paquete/DEBIAN/control
-|4,39,1,14,1767243221,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767243198,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767243198,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767243198,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767243198,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767243010,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767243010,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767243010,"~/mi-paquete/DEBIAN/control"
--'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767243010,"~/mi-paquete/DEBIAN/control"
+|4,39,4,22,1767294677,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
 -'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767242987,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+|4,39,4,22,1767294677,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
 -'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767242987,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+|4,39,4,22,1767294677,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
 -'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767242987,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767242987,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767242987,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767242987,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767242987,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  4  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,4,22,1767242987,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  33  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,33,44,1767242954,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  34  44  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,34,44,1767242946,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242925,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+|4,39,4,22,1767294677,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  7  22  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,7,22,1767294257,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,2,8,1767294243,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294237,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
+-'  3  20  ~/mi-paquete/DEBIAN/control
+|4,39,3,20,1767294227,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
 -'  2  12  ~/mi-paquete/DEBIAN/control
-|4,39,2,12,1767242921,"~/mi-paquete/DEBIAN/control"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
--'  28  0  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-|4,39,28,0,1767242894,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  12  ~/mi-paquete/DEBIAN/control
+|4,39,2,12,1767294173,"~/mi-paquete/DEBIAN/control"
+-'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,2,8,1767294130,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,2,8,1767294130,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,2,8,1767294130,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
+-'  2  8  ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
+|4,39,2,8,1767294130,"~/mi-paquete/data/data/com.termux/files/usr/bin/packit"
 
 # History of marks within files (newest to oldest):
 
 > ~/mi-paquete/data/data/com.termux/files/usr/bin/packit
-	*	1767280484	0
+	*	1767295455	0
 	"	4	22
 	^	4	23
 	.	4	22
-	+	30	48
+	+	33	48
 	+	1	121
 	+	1	0
 	+	1	325
-	+	27	0
+	+	30	0
 	+	1	108
 	+	1	71
 	+	6	37
@@ -303,47 +307,92 @@ $
 	+	7	14
 	+	7	0
 	+	8	35
-	+	9	24
+	+	11	24
 	+	8	30
-	+	9	41
-	+	10	6
-	+	9	7
+	+	11	41
+	+	12	6
+	+	11	7
 	+	8	8
-	+	9	7
-	+	10	20
+	+	11	7
+	+	12	20
+	+	29	0
 	+	26	0
-	+	23	0
-	+	17	51
-	+	13	51
-	+	17	76
-	+	21	103
-	+	23	38
-	+	21	111
-	+	23	115
-	+	13	115
-	+	23	116
-	+	17	76
-	+	19	87
-	+	25	0
+	+	20	51
+	+	15	51
+	+	20	76
+	+	24	103
+	+	26	38
+	+	24	111
+	+	26	115
+	+	15	115
+	+	26	116
+	+	20	76
+	+	22	87
+	+	28	0
 	+	4	22
-	+	25	0
-	+	11	0
+	+	28	0
+	+	13	0
 	+	4	22
-	+	33	44
-	+	33	0
+	+	35	44
+	+	35	0
 	+	4	22
-	+	12	12
-	+	25	13
+	+	14	12
+	+	28	13
 	+	4	22
-	i	33	45
+	+	15	33
+	+	7	64
+	+	15	6
+	+	13	8
+	+	15	23
+	+	16	4
+	+	30	8
+	+	30	183
+	+	19	113
+	+	16	5
+	+	15	21
+	+	16	0
+	+	7	65
+	+	16	0
+	+	9	0
+	+	35	61
+	+	36	4
+	+	35	116
+	+	38	0
+	+	35	115
+	+	36	0
+	+	35	51
+	+	36	116
+	+	35	114
+	+	35	6
+	+	35	115
+	+	35	15
+	+	35	117
+	+	35	42
+	+	34	5
+	+	36	0
+	+	34	0
+	+	35	47
+	+	4	23
+	+	35	2
+	+	32	115
+	+	4	22
+	+	26	9
+	+	22	10
+	+	4	22
+	+	1	48
+	+	4	22
+	+	1	42
+	+	2	0
+	+	4	22
+	i	35	45
 
 > ~/mi-paquete/DEBIAN/control
-	*	1767280394	0
+	*	1767295410	0
 	"	2	12
 	^	2	13
 	.	2	12
 	+	1	22
-	+	5	43
+	+	6	43
 	+	1	1
 	+	2	6
 	+	3	20
@@ -352,8 +401,19 @@ $
 	+	2	12
 	+	1	14
 	+	2	12
+	+	5	8
+	+	2	12
+	+	3	20
+	+	2	12
 	i	2	11
 	s	2	11
+
+> ~/mi-paquete/DEBIAN/postinst
+	*	1767295094	0
+	"	7	4
+	^	7	5
+	.	7	4
+	+	7	4
 
 > ~/mi_paquete/DEBIAN
 	*	1767217559	0
