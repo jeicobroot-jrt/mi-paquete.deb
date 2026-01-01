@@ -1,5 +1,5 @@
 package: packit
-Version: 1.26
+Version: 1.27
 Architecture: aarch64
 Maintainer: Jeicob_root
 Depends:python, python-pip, proot, git, apt, coreutils
