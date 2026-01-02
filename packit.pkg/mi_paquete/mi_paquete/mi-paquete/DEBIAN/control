@@ -1,7 +1,0 @@
-package: packit
-Version: 1.3
-Architecture: aarch64
-Maintainer: Jeicob_root
-Description: Script para Termux aarch64
-
-
