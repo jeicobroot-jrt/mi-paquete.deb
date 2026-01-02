@@ -2,8 +2,7 @@ Package: packit
 Version: 1.27
 Architecture: all
 Maintainer: Jeicob_root
-Depends: python, python-pip, proot, git, apt, coreutils
 Filename: ./packit.deb
 Size: 1508
 MD5sum: 4062e27df62b09da2346da118894f6be
-Description: Omega Kit v1.27
+Description: Kit Omega v1.27 - Repositorio Limpio
