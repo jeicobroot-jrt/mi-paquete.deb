@@ -1,0 +1,40 @@
+#!/data/data/com.termux/files/usr/bin/bash
+clear
+echo "==================================="
+echo "     PACKIT v1.28 - BY JEICOB_ROOT  "
+echo "            ©2026                   "
+echo "==================================="
+echo "kit of fast commands for termux "
+
+alias uyu="pkg update && pkg upgrade"
+alias ppbb="proot -0 -w ~$PREFIX/bin/bash"
+alias icf="ifconfig"
+alias pins="pkg install"
+alias c7="chmod 755"
+alias acaa="apt clean && apt autoremove"
+
+echo "============================================================================================================="
+echo "                                       pack_list                                                             "
+
+
+echo " uyp, is a command with the power of update and upgrade de system of termux.this don't have example"
+
+echo " ppbb, is a command with the power of give Proot,Proot only give virtual root.this don't have example"
+
+echo " icf, is a command with the power of give the data of the internet is,recomended for new users in termux.this don't have example"
+
+echo " instal, is a simple command with the funtion of install,before of the use,you need to combine the command with a pakage.example: install ENTER_YOUR_PACKAGE"
+
+echo " c7,is a command with the power of give permissions to a directory or a file,before of the use of this command you need to put the name of the file/directory.example: pac ENTER_YOUR_FILE" 
+
+echo " acaa,is a command with the power of clean and autoremove "
+
+echo "=============================================================================================================="
+
+if [ "$1" == "debg" ]; then
+    echo -e "\e[1;32m ¡¡¡ you can edit the code !!! \e[0m"
+        sleep 1
+	    nano $(which packit)
+	        exit
+		fi
+

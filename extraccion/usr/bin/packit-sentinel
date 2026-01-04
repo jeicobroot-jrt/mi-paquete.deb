@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+import psutil, os, time
+
+print("🔍 PACK⚡T Sentinel v1.27 - Vigilando sistema...")
+while True:
+    ram = psutil.virtual_memory().percent
+    if ram > 85:
+        os.system('termux-notification -t "PACK⚡T: RAM LLENA" -c "Uso al ' + str(ram) + '%"')
+    time.sleep(60)
+
